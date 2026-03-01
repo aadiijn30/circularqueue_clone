@@ -1,4 +1,4 @@
-
+#pragma once
 #include<iostream>
 using namespace std;
 template<typename T>
@@ -180,3 +180,4 @@ cout<<this->ptr[i]<<" ";}
 cout<<this->ptr[this->rear]<<endl;
 }
 };
+
